@@ -7,15 +7,12 @@ Matplotlib，
 
 Scikit-Learn：
 
-    LinearRegression，
-    
+    LinearRegression，    
     mean_absolute_error, mean_squared_error，
-    RandomForestRegressor，
     
-    StandardScaler，
-    
-    PCA，
-    
+    RandomForestRegressor，    
+    StandardScaler，    
+    PCA，    
     GridSearchCV。
     
 Time。
